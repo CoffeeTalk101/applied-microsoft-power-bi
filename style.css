@@ -1,0 +1,8500 @@
+.alsoby {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.2;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.alsobytitle {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 6pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.body {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0.25in
+    }
+.body1 {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: right;
+    text-indent: 0.25in
+    }
+.bodybullet {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0.25in;
+    margin-right: 0;
+    margin-top: 3pt;
+    text-indent: -0.25in
+    }
+.bodybullet1 {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 3pt;
+    text-indent: 0
+    }
+.bodybullet2 {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 9pt;
+    margin-right: 0;
+    margin-top: 3pt;
+    text-indent: -9pt
+    }
+.bodycxspfirst {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.bodycxsplast {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 22.5pt
+    }
+.bodynoindent {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: right
+    }
+.bodynoindent0cxspfirst {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.bodynoindentbefore6pt {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 6pt
+    }
+.bodynoindentbefore6pt1 {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 6pt;
+    text-indent: 0.25in
+    }
+.bodynoindentbefore6pt2 {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 6pt;
+    page-break-after: avoid
+    }
+.bodynoindentbefore6pt3 {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 6pt;
+    text-indent: 9pt
+    }
+.bodynoindentbefore6pt4 {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 5.25pt;
+    margin-right: 0;
+    margin-top: 6pt;
+    text-indent: -5.25pt
+    }
+.booksubtitle {
+    display: block;
+    font-size: 0.775em;
+    line-height: 1.2;
+    margin-bottom: 10pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.booktitle {
+    display: block;
+    font-size: 1.1em;
+    line-height: 1.2;
+    margin-bottom: 10pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.calibre {
+    display: block;
+    font-size: 1.66667em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 3pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: block;
+    line-height: 1.2;
+    padding-bottom: 6pt;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre2 {
+    line-height: 1.2
+    }
+.calibre3 {
+    font-size: 1.29032em;
+    line-height: 1.2
+    }
+.calibre4 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre5 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre6 {
+    height: 42px;
+    width: 143px
+    }
+.calibre7 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre8 {
+    font-size: 0.775em;
+    line-height: 1.2
+    }
+.calibre9 {
+    display: block;
+    page-break-after: always
+    }
+.calibre10 {
+    display: block;
+    page-break-before: always
+    }
+.calibre11 {
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.calibre12 {
+    font-weight: normal
+    }
+.calibre13 {
+    font-weight: bold
+    }
+.calibre14 {
+    font-style: italic
+    }
+.calibre15 {
+    display: block
+    }
+.calibre16 {
+    font-size: 0.6em
+    }
+.calibre17 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: block;
+    line-height: 1.2;
+    padding-bottom: 1pt;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre18 {
+    text-shadow: none
+    }
+.calibre19 {
+    font-size: 0.83333em
+    }
+.calibre20 {
+    font-size: 0.83333em;
+    text-shadow: none
+    }
+.calibre21 {
+    font-size: 0.83333em;
+    font-style: normal
+    }
+.calibre22 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: block;
+    line-height: 1.2;
+    padding-bottom: 6pt;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre23 {
+    text-decoration: underline
+    }
+.calibre24 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre25 {
+    height: 541px;
+    width: 444px
+    }
+.calibre26 {
+    display: table-row;
+    height: 16.1pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre27 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.75pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 184.5pt
+    }
+.calibre28 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 67.5pt
+    }
+.calibre29 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 157.5pt
+    }
+.calibre30 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 45pt
+    }
+.calibre31 {
+    display: table-row;
+    height: 19.5pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre32 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 19.5pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.75pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 184.5pt
+    }
+.calibre33 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 19.5pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 67.5pt
+    }
+.calibre34 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 19.5pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 157.5pt
+    }
+.calibre35 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 19.5pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 45pt
+    }
+.calibre36 {
+    display: table-row;
+    height: 0.25in;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre37 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.75pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 184.5pt
+    }
+.calibre38 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 67.5pt
+    }
+.calibre39 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 157.5pt
+    }
+.calibre40 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 45pt
+    }
+.calibre41 {
+    display: table-row;
+    height: 17.7pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre42 {
+    display: table-cell;
+    height: 17.7pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.75pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 184.5pt
+    }
+.calibre43 {
+    display: table-cell;
+    height: 17.7pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 67.5pt
+    }
+.calibre44 {
+    display: table-cell;
+    height: 17.7pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 157.5pt
+    }
+.calibre45 {
+    display: table-cell;
+    height: 17.7pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 45pt
+    }
+.calibre46 {
+    display: table-row;
+    height: 42.75pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre47 {
+    display: table-cell;
+    height: 42.75pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.75pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 184.5pt
+    }
+.calibre48 {
+    display: table-cell;
+    height: 42.75pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 67.5pt
+    }
+.calibre49 {
+    display: table-cell;
+    height: 42.75pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 157.5pt
+    }
+.calibre50 {
+    display: table-cell;
+    height: 42.75pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 45pt
+    }
+.calibre51 {
+    font-size: 0.9em
+    }
+.calibre52 {
+    display: block;
+    font-size: 0.5em;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 8pt;
+    page-break-after: avoid;
+    text-indent: 0
+    }
+.calibre53 {
+    display: block;
+    font-size: 0.6em;
+    font-weight: normal;
+    margin-bottom: 0.0001pt;
+    margin-left: 4.3pt;
+    margin-right: 0;
+    margin-top: 3pt;
+    text-indent: -4.3pt
+    }
+.calibre54 {
+    display: block;
+    line-height: 1.2;
+    page-break-after: always
+    }
+.calibre55 {
+    display: block;
+    font-size: 1.1em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 20pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre56 {
+    font-size: 0.70455em;
+    line-height: 1.2;
+    text-shadow: auto
+    }
+.calibre57 {
+    font-size: 1.1em;
+    line-height: 1.2
+    }
+.calibre58 {
+    display: block;
+    line-height: 1.2;
+    page-break-before: auto
+    }
+.calibre59 {
+    display: block;
+    page-break-before: auto
+    }
+.calibre60 {
+    display: block;
+    font-size: 0.775em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 8pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25in;
+    page-break-after: avoid;
+    text-indent: 0
+    }
+.calibre61 {
+    height: 11px;
+    width: 11px
+    }
+.calibre62 {
+    font-family: serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.calibre63 {
+    height: 573px;
+    width: 781px
+    }
+.calibre64 {
+    height: 264px;
+    width: 585px
+    }
+.calibre65 {
+    height: 437px;
+    width: 774px
+    }
+.calibre66 {
+    height: 607px;
+    width: 717px
+    }
+.calibre67 {
+    display: table-header-group;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre68 {
+    display: table-row;
+    height: 16.1pt;
+    line-height: 1.2;
+    vertical-align: inherit
+    }
+.calibre69 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 81.9pt
+    }
+.calibre70 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.25in
+    }
+.calibre71 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.75in
+    }
+.calibre72 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 220.5pt
+    }
+.calibre73 {
+    display: table-row;
+    height: 17.85pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre74 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 81.9pt
+    }
+.calibre75 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.25in
+    }
+.calibre76 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.75in
+    }
+.calibre77 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 220.5pt
+    }
+.calibre78 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 81.9pt
+    }
+.calibre79 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.25in
+    }
+.calibre80 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.75in
+    }
+.calibre81 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 220.5pt
+    }
+.calibre82 {
+    display: table-row;
+    height: 17.55pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre83 {
+    display: table-cell;
+    height: 17.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 81.9pt
+    }
+.calibre84 {
+    display: table-cell;
+    height: 17.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.25in
+    }
+.calibre85 {
+    display: table-cell;
+    height: 17.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.75in
+    }
+.calibre86 {
+    display: table-cell;
+    height: 17.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 220.5pt
+    }
+.calibre87 {
+    display: table-row;
+    height: 27.45pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre88 {
+    display: table-cell;
+    height: 27.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 81.9pt
+    }
+.calibre89 {
+    display: table-cell;
+    height: 27.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.25in
+    }
+.calibre90 {
+    display: table-cell;
+    height: 27.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.75in
+    }
+.calibre91 {
+    display: table-cell;
+    height: 27.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 220.5pt
+    }
+.calibre92 {
+    height: 499px;
+    width: 1248px
+    }
+.calibre93 {
+    height: 644px;
+    width: 1110px
+    }
+.calibre94 {
+    height: 573px;
+    width: 776px
+    }
+.calibre95 {
+    height: 348px;
+    width: 990px
+    }
+.calibre96 {
+    height: 482px;
+    width: 738px
+    }
+.calibre97 {
+    height: 496px;
+    width: 697px
+    }
+.calibre98 {
+    height: 369px;
+    width: 587px
+    }
+.calibre99 {
+    height: 466px;
+    width: 356px
+    }
+.calibre100 {
+    height: 401px;
+    width: 814px
+    }
+.calibre101 {
+    height: 677px;
+    width: 1066px
+    }
+.calibre102 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 112.5pt
+    }
+.calibre103 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 2.5in
+    }
+.calibre104 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 162.9pt
+    }
+.calibre105 {
+    display: table-row;
+    height: 15.55pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre106 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 15.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 112.5pt
+    }
+.calibre107 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 15.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 2.5in
+    }
+.calibre108 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 15.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 162.9pt
+    }
+.calibre109 {
+    display: table-cell;
+    height: 15.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 112.5pt
+    }
+.calibre110 {
+    display: table-cell;
+    height: 15.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 2.5in
+    }
+.calibre111 {
+    display: table-cell;
+    height: 15.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 162.9pt
+    }
+.calibre112 {
+    height: 731px;
+    width: 1002px
+    }
+.calibre113 {
+    height: 467px;
+    width: 992px
+    }
+.calibre114 {
+    font-size: 1em
+    }
+.calibre115 {
+    height: 458px;
+    width: 1262px
+    }
+.calibre116 {
+    height: 690px;
+    width: 1142px
+    }
+.calibre117 {
+    height: 311px;
+    width: 550px
+    }
+.calibre118 {
+    height: 585px;
+    width: 1146px
+    }
+.calibre119 {
+    height: 361px;
+    width: 917px
+    }
+.calibre120 {
+    height: 589px;
+    width: 1399px
+    }
+.calibre121 {
+    height: 540px;
+    width: 655px
+    }
+.calibre122 {
+    height: 96px;
+    width: 98px
+    }
+.calibre123 {
+    font-size: 0.6em;
+    text-transform: uppercase
+    }
+.calibre124 {
+    height: 424px;
+    width: 873px
+    }
+.calibre125 {
+    font-size: 0.9em;
+    font-weight: normal
+    }
+.calibre126 {
+    height: 399px;
+    width: 584px
+    }
+.calibre127 {
+    height: 327px;
+    width: 604px
+    }
+.calibre128 {
+    display: table-row;
+    height: 112.5pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre129 {
+    display: table-cell;
+    height: 112.5pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 431.7pt
+    }
+.calibre130 {
+    height: 418px;
+    width: 579px
+    }
+.calibre131 {
+    height: 659px;
+    width: 1144px
+    }
+.calibre132 {
+    height: 339px;
+    width: 878px
+    }
+.calibre133 {
+    height: 212px;
+    width: 714px
+    }
+.calibre134 {
+    height: 428px;
+    width: 602px
+    }
+.calibre135 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 76.5pt
+    }
+.calibre136 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 193.5pt
+    }
+.calibre137 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 85.5pt
+    }
+.calibre138 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 94.5pt
+    }
+.calibre139 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 76.5pt
+    }
+.calibre140 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 193.5pt
+    }
+.calibre141 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 85.5pt
+    }
+.calibre142 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 94.5pt
+    }
+.calibre143 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 76.5pt
+    }
+.calibre144 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 193.5pt
+    }
+.calibre145 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 85.5pt
+    }
+.calibre146 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 94.5pt
+    }
+.calibre147 {
+    height: 281px;
+    width: 1067px
+    }
+.calibre148 {
+    height: 165px;
+    width: 601px
+    }
+.calibre149 {
+    height: 531px;
+    width: 984px
+    }
+.calibre150 {
+    height: 538px;
+    width: 600px
+    }
+.calibre151 {
+    height: 496px;
+    width: 698px
+    }
+.calibre152 {
+    height: 329px;
+    width: 479px
+    }
+.calibre153 {
+    height: 379px;
+    width: 840px
+    }
+.calibre154 {
+    height: 311px;
+    width: 942px
+    }
+.calibre155 {
+    height: 555px;
+    width: 905px
+    }
+.calibre156 {
+    height: 215px;
+    width: 789px
+    }
+.calibre157 {
+    height: 291px;
+    width: 406px
+    }
+.calibre158 {
+    height: 195px;
+    width: 716px
+    }
+.calibre159 {
+    height: 291px;
+    width: 1017px
+    }
+.calibre160 {
+    height: 454px;
+    width: 1122px
+    }
+.calibre161 {
+    height: 436px;
+    width: 844px
+    }
+.calibre162 {
+    height: 376px;
+    width: 356px
+    }
+.calibre163 {
+    height: 12px;
+    width: 9px
+    }
+.calibre164 {
+    height: 12px;
+    width: 11px
+    }
+.calibre165 {
+    height: 205px;
+    width: 537px
+    }
+.calibre166 {
+    height: 321px;
+    width: 1028px
+    }
+.calibre167 {
+    height: 307px;
+    width: 370px
+    }
+.calibre168 {
+    height: 369px;
+    width: 614px
+    }
+.calibre169 {
+    height: 197px;
+    width: 800px
+    }
+.calibre170 {
+    height: 348px;
+    width: 593px
+    }
+.calibre171 {
+    height: 146px;
+    width: 551px
+    }
+.calibre172 {
+    height: 255px;
+    width: 655px
+    }
+.calibre173 {
+    height: 222px;
+    width: 593px
+    }
+.calibre174 {
+    height: 414px;
+    width: 597px
+    }
+.calibre175 {
+    height: 328px;
+    width: 515px
+    }
+.calibre176 {
+    height: 153px;
+    width: 613px
+    }
+.calibre177 {
+    height: 229px;
+    width: 475px
+    }
+.calibre178 {
+    height: 456px;
+    width: 576px
+    }
+.calibre179 {
+    height: 136px;
+    width: 681px
+    }
+.calibre180 {
+    height: 550px;
+    width: 792px
+    }
+.calibre181 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 63pt
+    }
+.calibre182 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 265.5pt
+    }
+.calibre183 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 63pt
+    }
+.calibre184 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 67.5pt
+    }
+.calibre185 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 265.5pt
+    }
+.calibre186 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 63pt
+    }
+.calibre187 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 265.5pt
+    }
+.calibre188 {
+    display: table-row;
+    height: 29.25pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre189 {
+    display: table-cell;
+    height: 29.25pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 63pt
+    }
+.calibre190 {
+    display: table-cell;
+    height: 29.25pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 67.5pt
+    }
+.calibre191 {
+    display: table-cell;
+    height: 29.25pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.75in
+    }
+.calibre192 {
+    display: table-cell;
+    height: 29.25pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 265.5pt
+    }
+.calibre193 {
+    height: 364px;
+    width: 758px
+    }
+.calibre194 {
+    height: 658px;
+    width: 1201px
+    }
+.calibre195 {
+    height: 16px;
+    width: 17px
+    }
+.calibre196 {
+    font-size: 1em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre197 {
+    height: 419px;
+    width: 586px
+    }
+.calibre198 {
+    font-size: 0.625em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre199 {
+    height: 413px;
+    width: 941px
+    }
+.calibre200 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.45in
+    }
+.calibre201 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 4.8in
+    }
+.calibre202 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.45in
+    }
+.calibre203 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 4.8in
+    }
+.calibre204 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.45in
+    }
+.calibre205 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 4.8in
+    }
+.calibre206 {
+    display: table-cell;
+    height: 27.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.45in
+    }
+.calibre207 {
+    display: table-cell;
+    height: 27.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 4.8in
+    }
+.calibre208 {
+    height: 344px;
+    width: 456px
+    }
+.calibre209 {
+    height: 378px;
+    width: 607px
+    }
+.calibre210 {
+    height: 485px;
+    width: 998px
+    }
+.calibre211 {
+    height: 547px;
+    width: 1021px
+    }
+.calibre212 {
+    display: block;
+    font-size: 0.6em;
+    font-weight: normal;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 3pt;
+    text-indent: 0
+    }
+.calibre213 {
+    height: 538px;
+    width: 866px
+    }
+.calibre214 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 62.1pt
+    }
+.calibre215 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 149.4pt
+    }
+.calibre216 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 148.5pt
+    }
+.calibre217 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 62.1pt
+    }
+.calibre218 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 149.4pt
+    }
+.calibre219 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 148.5pt
+    }
+.calibre220 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 62.1pt
+    }
+.calibre221 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 149.4pt
+    }
+.calibre222 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 148.5pt
+    }
+.calibre223 {
+    display: table-row;
+    height: 0.45in;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre224 {
+    display: table-cell;
+    height: 0.45in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 62.1pt
+    }
+.calibre225 {
+    display: table-cell;
+    height: 0.45in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 149.4pt
+    }
+.calibre226 {
+    display: table-cell;
+    height: 0.45in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 148.5pt
+    }
+.calibre227 {
+    display: table-cell;
+    height: 0.45in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.25in
+    }
+.calibre228 {
+    height: 208px;
+    width: 511px
+    }
+.calibre229 {
+    height: 484px;
+    width: 848px
+    }
+.calibre230 {
+    height: 413px;
+    width: 880px
+    }
+.calibre231 {
+    height: 655px;
+    width: 920px
+    }
+.calibre232 {
+    height: 21px;
+    width: 14px
+    }
+.calibre233 {
+    height: 399px;
+    width: 1001px
+    }
+.calibre234 {
+    height: 376px;
+    width: 443px
+    }
+.calibre235 {
+    height: 322px;
+    width: 815px
+    }
+.calibre236 {
+    height: 513px;
+    width: 854px
+    }
+.calibre237 {
+    height: 319px;
+    width: 741px
+    }
+.calibre238 {
+    height: 440px;
+    width: 977px
+    }
+.calibre239 {
+    height: 16px;
+    width: 15px
+    }
+.calibre240 {
+    height: 278px;
+    width: 642px
+    }
+.calibre241 {
+    height: 630px;
+    width: 930px
+    }
+.calibre242 {
+    height: 283px;
+    width: 597px
+    }
+.calibre243 {
+    height: 494px;
+    width: 859px
+    }
+.calibre244 {
+    height: 540px;
+    width: 781px
+    }
+.calibre245 {
+    height: 373px;
+    width: 481px
+    }
+.calibre246 {
+    height: 327px;
+    width: 1009px
+    }
+.calibre247 {
+    height: 731px;
+    width: 1616px
+    }
+.calibre248 {
+    height: 582px;
+    width: 1156px
+    }
+.calibre249 {
+    height: 205px;
+    width: 321px
+    }
+.calibre250 {
+    height: 540px;
+    width: 1114px
+    }
+.calibre251 {
+    height: 621px;
+    width: 781px
+    }
+.calibre252 {
+    height: 332px;
+    width: 592px
+    }
+.calibre253 {
+    height: 295px;
+    width: 595px
+    }
+.calibre254 {
+    height: 254px;
+    width: 482px
+    }
+.calibre255 {
+    height: 500px;
+    width: 906px
+    }
+.calibre256 {
+    height: 385px;
+    width: 905px
+    }
+.calibre257 {
+    height: 387px;
+    width: 806px
+    }
+.calibre258 {
+    height: 415px;
+    width: 634px
+    }
+.calibre259 {
+    height: 432px;
+    width: 816px
+    }
+.calibre260 {
+    height: 449px;
+    width: 769px
+    }
+.calibre261 {
+    height: 538px;
+    width: 772px
+    }
+.calibre262 {
+    height: 39px;
+    width: 40px
+    }
+.calibre263 {
+    height: 500px;
+    width: 772px
+    }
+.calibre264 {
+    height: 337px;
+    width: 599px
+    }
+.calibre265 {
+    height: 329px;
+    width: 586px
+    }
+.calibre266 {
+    height: 320px;
+    width: 742px
+    }
+.calibre267 {
+    height: 293px;
+    width: 522px
+    }
+.calibre268 {
+    height: 294px;
+    width: 770px
+    }
+.calibre269 {
+    height: 460px;
+    width: 574px
+    }
+.calibre270 {
+    height: 282px;
+    width: 495px
+    }
+.calibre271 {
+    height: 319px;
+    width: 668px
+    }
+.calibre272 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 110.55pt
+    }
+.calibre273 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 132.45pt
+    }
+.calibre274 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 117pt
+    }
+.calibre275 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 110.55pt
+    }
+.calibre276 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 132.45pt
+    }
+.calibre277 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 117pt
+    }
+.calibre278 {
+    display: table-row;
+    height: 34.65pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre279 {
+    display: table-cell;
+    height: 34.65pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.25in
+    }
+.calibre280 {
+    display: table-cell;
+    height: 34.65pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 110.55pt
+    }
+.calibre281 {
+    display: table-cell;
+    height: 34.65pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 132.45pt
+    }
+.calibre282 {
+    display: table-cell;
+    height: 34.65pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 117pt
+    }
+.calibre283 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 110.55pt
+    }
+.calibre284 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 132.45pt
+    }
+.calibre285 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 117pt
+    }
+.calibre286 {
+    display: table-row;
+    height: 0.3in;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre287 {
+    display: table-cell;
+    height: 0.3in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.25in
+    }
+.calibre288 {
+    display: table-cell;
+    height: 0.3in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 110.55pt
+    }
+.calibre289 {
+    display: table-cell;
+    height: 0.3in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 132.45pt
+    }
+.calibre290 {
+    display: table-cell;
+    height: 0.3in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 117pt
+    }
+.calibre291 {
+    display: table-row;
+    height: 0.4in;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre292 {
+    display: table-cell;
+    height: 0.4in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.25in
+    }
+.calibre293 {
+    display: table-cell;
+    height: 0.4in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 110.55pt
+    }
+.calibre294 {
+    display: table-cell;
+    height: 0.4in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 132.45pt
+    }
+.calibre295 {
+    display: table-cell;
+    height: 0.4in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 117pt
+    }
+.calibre296 {
+    height: 627px;
+    width: 1066px
+    }
+.calibre297 {
+    height: 378px;
+    width: 616px
+    }
+.calibre298 {
+    height: 389px;
+    width: 1147px
+    }
+.calibre299 {
+    height: 430px;
+    width: 536px
+    }
+.calibre300 {
+    height: 388px;
+    width: 449px
+    }
+.calibre301 {
+    height: 331px;
+    width: 363px
+    }
+.calibre302 {
+    height: 591px;
+    width: 639px
+    }
+.calibre303 {
+    height: 574px;
+    width: 755px
+    }
+.calibre304 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 72.9pt
+    }
+.calibre305 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 373.5pt
+    }
+.calibre306 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 72.9pt
+    }
+.calibre307 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 373.5pt
+    }
+.calibre308 {
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 72.9pt
+    }
+.calibre309 {
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 373.5pt
+    }
+.calibre310 {
+    display: table-row;
+    height: 0.35in;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre311 {
+    display: table-cell;
+    height: 0.35in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 72.9pt
+    }
+.calibre312 {
+    display: table-cell;
+    height: 0.35in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 373.5pt
+    }
+.calibre313 {
+    height: 478px;
+    width: 699px
+    }
+.calibre314 {
+    height: 342px;
+    width: 695px
+    }
+.calibre315 {
+    height: 561px;
+    width: 799px
+    }
+.calibre316 {
+    height: 626px;
+    width: 801px
+    }
+.calibre317 {
+    height: 584px;
+    width: 891px
+    }
+.calibre318 {
+    height: 297px;
+    width: 704px
+    }
+.calibre319 {
+    height: 501px;
+    width: 879px
+    }
+.calibre320 {
+    height: 372px;
+    width: 595px
+    }
+.calibre321 {
+    height: 91px;
+    width: 528px
+    }
+.calibre322 {
+    height: 431px;
+    width: 668px
+    }
+.calibre323 {
+    height: 347px;
+    width: 569px
+    }
+.calibre324 {
+    height: 695px;
+    width: 875px
+    }
+.calibre325 {
+    height: 280px;
+    width: 762px
+    }
+.calibre326 {
+    height: 672px;
+    width: 1026px
+    }
+.calibre327 {
+    height: 20px;
+    width: 19px
+    }
+.calibre328 {
+    height: 391px;
+    width: 669px
+    }
+.calibre329 {
+    height: 699px;
+    width: 1144px
+    }
+.calibre330 {
+    height: 279px;
+    width: 407px
+    }
+.calibre331 {
+    height: 8px;
+    width: 16px
+    }
+.calibre332 {
+    height: 180px;
+    width: 831px
+    }
+.calibre333 {
+    height: 91px;
+    width: 865px
+    }
+.calibre334 {
+    height: 418px;
+    width: 898px
+    }
+.calibre335 {
+    height: 91px;
+    width: 542px
+    }
+.calibre336 {
+    height: 10px;
+    width: 11px
+    }
+.calibre337 {
+    height: 635px;
+    width: 983px
+    }
+.calibre338 {
+    height: 652px;
+    width: 751px
+    }
+.calibre339 {
+    height: 9px;
+    width: 14px
+    }
+.calibre340 {
+    height: 406px;
+    width: 1044px
+    }
+.calibre341 {
+    font-family: serif;
+    font-size: 1.2em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.calibre342 {
+    height: 537px;
+    width: 1065px
+    }
+.calibre343 {
+    height: 420px;
+    width: 936px
+    }
+.calibre344 {
+    height: 412px;
+    width: 699px
+    }
+.calibre345 {
+    height: 14px;
+    width: 14px
+    }
+.calibre346 {
+    height: 367px;
+    width: 582px
+    }
+.calibre347 {
+    height: 246px;
+    width: 468px
+    }
+.calibre348 {
+    height: 557px;
+    width: 648px
+    }
+.calibre349 {
+    height: 266px;
+    width: 828px
+    }
+.calibre350 {
+    height: 495px;
+    width: 911px
+    }
+.calibre351 {
+    height: 527px;
+    width: 1096px
+    }
+.calibre352 {
+    height: 399px;
+    width: 695px
+    }
+.calibre353 {
+    height: 255px;
+    width: 607px
+    }
+.calibre354 {
+    height: 18px;
+    width: 36px
+    }
+.calibre355 {
+    height: 458px;
+    width: 542px
+    }
+.calibre356 {
+    height: 280px;
+    width: 373px
+    }
+.calibre357 {
+    height: 614px;
+    width: 915px
+    }
+.calibre358 {
+    height: 554px;
+    width: 707px
+    }
+.calibre359 {
+    height: 332px;
+    width: 421px
+    }
+.calibre360 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 81pt
+    }
+.calibre361 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 99pt
+    }
+.calibre362 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 225pt
+    }
+.calibre363 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: inherit
+    }
+.calibre364 {
+    display: table-row;
+    height: 16.95pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre365 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 16.95pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 81pt
+    }
+.calibre366 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 16.95pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 99pt
+    }
+.calibre367 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 16.95pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 225pt
+    }
+.calibre368 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 81pt
+    }
+.calibre369 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 99pt
+    }
+.calibre370 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 225pt
+    }
+.calibre371 {
+    font-size: 0.83333em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre372 {
+    height: 384px;
+    width: 586px
+    }
+.calibre373 {
+    height: 401px;
+    width: 426px
+    }
+.calibre374 {
+    height: 444px;
+    width: 771px
+    }
+.calibre375 {
+    height: 487px;
+    width: 373px
+    }
+.calibre376 {
+    height: 436px;
+    width: 720px
+    }
+.calibre377 {
+    height: 584px;
+    width: 784px
+    }
+.calibre378 {
+    height: 317px;
+    width: 449px
+    }
+.calibre379 {
+    height: 258px;
+    width: 455px
+    }
+.calibre380 {
+    height: 186px;
+    width: 512px
+    }
+.calibre381 {
+    height: 568px;
+    width: 612px
+    }
+.calibre382 {
+    height: 215px;
+    width: 375px
+    }
+.calibre383 {
+    height: 509px;
+    width: 720px
+    }
+.calibre384 {
+    height: 578px;
+    width: 678px
+    }
+.calibre385 {
+    height: 256px;
+    width: 585px
+    }
+.calibre386 {
+    height: 646px;
+    width: 913px
+    }
+.calibre387 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: solid;
+    border-right-width: 1pt;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 2.3in
+    }
+.calibre388 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 99.9pt
+    }
+.calibre389 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 102.6pt
+    }
+.calibre390 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: solid;
+    border-right-width: 1pt;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 2.3in
+    }
+.calibre391 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 99.9pt
+    }
+.calibre392 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 102.6pt
+    }
+.calibre393 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: solid;
+    border-right-width: 1pt;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 2.3in
+    }
+.calibre394 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 99.9pt
+    }
+.calibre395 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 102.6pt
+    }
+.calibre396 {
+    display: table-row;
+    height: 23.4pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre397 {
+    display: table-cell;
+    height: 23.4pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 63pt
+    }
+.calibre398 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: solid;
+    border-right-width: 1pt;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 23.4pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 2.3in
+    }
+.calibre399 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 23.4pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 99.9pt
+    }
+.calibre400 {
+    display: table-cell;
+    height: 23.4pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 102.6pt
+    }
+.calibre401 {
+    height: 280px;
+    width: 540px
+    }
+.calibre402 {
+    height: 461px;
+    width: 762px
+    }
+.calibre403 {
+    height: 530px;
+    width: 743px
+    }
+.calibre404 {
+    height: 128px;
+    width: 363px
+    }
+.calibre405 {
+    height: 225px;
+    width: 277px
+    }
+.calibre406 {
+    height: 184px;
+    width: 402px
+    }
+.calibre407 {
+    height: 192px;
+    width: 593px
+    }
+.calibre408 {
+    height: 369px;
+    width: 702px
+    }
+.calibre409 {
+    height: 340px;
+    width: 1125px
+    }
+.calibre410 {
+    height: 377px;
+    width: 715px
+    }
+.calibre411 {
+    height: 301px;
+    width: 753px
+    }
+.calibre412 {
+    height: 406px;
+    width: 761px
+    }
+.calibre413 {
+    height: 232px;
+    width: 412px
+    }
+.calibre414 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 175.5pt
+    }
+.calibre415 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 175.5pt
+    }
+.calibre416 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 175.5pt
+    }
+.calibre417 {
+    height: 209px;
+    width: 761px
+    }
+.calibre418 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 53.2pt
+    }
+.calibre419 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 60.2pt
+    }
+.calibre420 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 53.2pt
+    }
+.calibre421 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 60.2pt
+    }
+.calibre422 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 225pt
+    }
+.calibre423 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 53.2pt
+    }
+.calibre424 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 60.2pt
+    }
+.calibre425 {
+    display: table-row;
+    height: 0.2in;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre426 {
+    display: table-cell;
+    height: 0.2in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 53.2pt
+    }
+.calibre427 {
+    display: table-cell;
+    height: 0.2in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 60.2pt
+    }
+.calibre428 {
+    display: table-cell;
+    height: 0.2in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 117pt
+    }
+.calibre429 {
+    display: table-cell;
+    height: 0.2in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 225pt
+    }
+.calibre430 {
+    display: table-row;
+    height: 22.05pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre431 {
+    display: table-cell;
+    height: 22.05pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 53.2pt
+    }
+.calibre432 {
+    display: table-cell;
+    height: 22.05pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 60.2pt
+    }
+.calibre433 {
+    display: table-cell;
+    height: 22.05pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 117pt
+    }
+.calibre434 {
+    display: table-cell;
+    height: 22.05pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 225pt
+    }
+.calibre435 {
+    height: 317px;
+    width: 597px
+    }
+.calibre436 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 54.9pt
+    }
+.calibre437 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 215.1pt
+    }
+.calibre438 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 184.5pt
+    }
+.calibre439 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 54.9pt
+    }
+.calibre440 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 215.1pt
+    }
+.calibre441 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 184.5pt
+    }
+.calibre442 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 54.9pt
+    }
+.calibre443 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 215.1pt
+    }
+.calibre444 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 184.5pt
+    }
+.calibre445 {
+    display: table-row;
+    height: 28.35pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre446 {
+    display: table-cell;
+    height: 28.35pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 54.9pt
+    }
+.calibre447 {
+    display: table-cell;
+    height: 28.35pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 215.1pt
+    }
+.calibre448 {
+    display: table-cell;
+    height: 28.35pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 184.5pt
+    }
+.calibre449 {
+    display: table-cell;
+    height: 34.65pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 54.9pt
+    }
+.calibre450 {
+    display: table-cell;
+    height: 34.65pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 215.1pt
+    }
+.calibre451 {
+    display: table-cell;
+    height: 34.65pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 184.5pt
+    }
+.calibre452 {
+    height: 428px;
+    width: 609px
+    }
+.calibre453 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.calibre454 {
+    height: 269px;
+    width: 659px
+    }
+.calibre455 {
+    height: 285px;
+    width: 457px
+    }
+.calibre456 {
+    display: block;
+    font-size: 0.5em;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 0.0001pt;
+    margin-left: 1in;
+    margin-right: 0;
+    margin-top: 6pt;
+    page-break-after: avoid;
+    text-indent: -1in
+    }
+.calibre457 {
+    color: white;
+    font-style: normal
+    }
+.calibre458 {
+    height: 392px;
+    width: 658px
+    }
+.calibre459 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 117.9pt
+    }
+.calibre460 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 3.75in
+    }
+.calibre461 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 117.9pt
+    }
+.calibre462 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 3.75in
+    }
+.calibre463 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 117.9pt
+    }
+.calibre464 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 3.75in
+    }
+.calibre465 {
+    display: table-row;
+    height: 22.5pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre466 {
+    display: table-cell;
+    height: 22.5pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 117.9pt
+    }
+.calibre467 {
+    display: table-cell;
+    height: 22.5pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 3.75in
+    }
+.calibre468 {
+    display: table-cell;
+    height: 22.5pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 67.5pt
+    }
+.calibre469 {
+    height: 376px;
+    width: 551px
+    }
+.calibre470 {
+    height: 628px;
+    width: 1019px
+    }
+.calibre471 {
+    height: 377px;
+    width: 730px
+    }
+.calibre472 {
+    height: 420px;
+    width: 656px
+    }
+.calibre473 {
+    height: 174px;
+    width: 553px
+    }
+.calibre474 {
+    height: 272px;
+    width: 522px
+    }
+.calibre475 {
+    height: 578px;
+    width: 677px
+    }
+.calibre476 {
+    height: 321px;
+    width: 543px
+    }
+.calibre477 {
+    height: 329px;
+    width: 748px
+    }
+.calibre478 {
+    height: 380px;
+    width: 739px
+    }
+.calibre479 {
+    height: 169px;
+    width: 599px
+    }
+.calibre480 {
+    height: 322px;
+    width: 395px
+    }
+.calibre481 {
+    height: 276px;
+    width: 455px
+    }
+.calibre482 {
+    height: 536px;
+    width: 1149px
+    }
+.calibre483 {
+    height: 390px;
+    width: 1045px
+    }
+.calibre484 {
+    height: 247px;
+    width: 454px
+    }
+.calibre485 {
+    height: 170px;
+    width: 499px
+    }
+.calibre486 {
+    height: 476px;
+    width: 1118px
+    }
+.calibre487 {
+    height: 91px;
+    width: 579px
+    }
+.calibre488 {
+    height: 219px;
+    width: 363px
+    }
+.calibre489 {
+    height: 243px;
+    width: 558px
+    }
+.calibre490 {
+    height: 140px;
+    width: 732px
+    }
+.calibre491 {
+    height: 395px;
+    width: 694px
+    }
+.calibre492 {
+    height: 960px;
+    width: 1566px
+    }
+.calibre493 {
+    height: 508px;
+    width: 927px
+    }
+.calibre494 {
+    height: 399px;
+    width: 640px
+    }
+.calibre495 {
+    height: 481px;
+    width: 844px
+    }
+.calibre496 {
+    height: 635px;
+    width: 1153px
+    }
+.calibre497 {
+    height: 88px;
+    width: 467px
+    }
+.calibre498 {
+    height: 798px;
+    width: 1462px
+    }
+.calibre499 {
+    height: 460px;
+    width: 548px
+    }
+.calibre500 {
+    height: 513px;
+    width: 432px
+    }
+.calibre501 {
+    height: 483px;
+    width: 691px
+    }
+.calibre502 {
+    height: 419px;
+    width: 1149px
+    }
+.calibre503 {
+    height: 433px;
+    width: 961px
+    }
+.calibre504 {
+    height: 990px;
+    width: 1920px
+    }
+.calibre505 {
+    height: 564px;
+    width: 1037px
+    }
+.calibre506 {
+    height: 375px;
+    width: 456px
+    }
+.calibre507 {
+    height: 497px;
+    width: 1420px
+    }
+.calibre508 {
+    height: 328px;
+    width: 751px
+    }
+.calibre509 {
+    height: 680px;
+    width: 1163px
+    }
+.calibre510 {
+    height: 448px;
+    width: 814px
+    }
+.calibre511 {
+    height: 99px;
+    width: 340px
+    }
+.calibre512 {
+    height: 102px;
+    width: 395px
+    }
+.calibre513 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.75in
+    }
+.calibre514 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 121.5pt
+    }
+.calibre515 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 81pt
+    }
+.calibre516 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.75in
+    }
+.calibre517 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 121.5pt
+    }
+.calibre518 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.75in
+    }
+.calibre519 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 121.5pt
+    }
+.calibre520 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 189pt
+    }
+.calibre521 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 2.25in
+    }
+.calibre522 {
+    display: table-row;
+    height: 15.45pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre523 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 15.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 94.5pt
+    }
+.calibre524 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 15.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 189pt
+    }
+.calibre525 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 15.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 2.25in
+    }
+.calibre526 {
+    display: table-cell;
+    height: 15.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 94.5pt
+    }
+.calibre527 {
+    display: table-cell;
+    height: 15.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 189pt
+    }
+.calibre528 {
+    display: table-cell;
+    height: 15.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 2.25in
+    }
+.calibre529 {
+    height: 500px;
+    width: 1543px
+    }
+.calibre530 {
+    height: 665px;
+    width: 880px
+    }
+.calibre531 {
+    height: 442px;
+    width: 908px
+    }
+.calibre532 {
+    height: 1024px;
+    width: 1024px
+    }
+.calibre533 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 211.5pt
+    }
+.calibre534 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 157.5pt
+    }
+.calibre535 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 211.5pt
+    }
+.calibre536 {
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 81pt
+    }
+.calibre537 {
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 157.5pt
+    }
+.calibre538 {
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 211.5pt
+    }
+.calibre539 {
+    display: table-row;
+    height: 20.25pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre540 {
+    display: table-cell;
+    height: 20.25pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 81pt
+    }
+.calibre541 {
+    display: table-cell;
+    height: 20.25pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 157.5pt
+    }
+.calibre542 {
+    display: table-cell;
+    height: 20.25pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 211.5pt
+    }
+.calibre543 {
+    height: 352px;
+    width: 477px
+    }
+.calibre544 {
+    height: 559px;
+    width: 1010px
+    }
+.calibre545 {
+    height: 394px;
+    width: 742px
+    }
+.calibre546 {
+    height: 474px;
+    width: 776px
+    }
+.calibre547 {
+    height: 460px;
+    width: 606px
+    }
+.calibre548 {
+    height: 331px;
+    width: 549px
+    }
+.calibre549 {
+    height: 631px;
+    width: 501px
+    }
+.calibre550 {
+    height: 363px;
+    width: 874px
+    }
+.calibre551 {
+    height: 576px;
+    width: 1242px
+    }
+.calibre552 {
+    height: 363px;
+    width: 810px
+    }
+.calibre553 {
+    height: 331px;
+    width: 581px
+    }
+.calibre554 {
+    height: 530px;
+    width: 770px
+    }
+.calibre555 {
+    height: 238px;
+    width: 779px
+    }
+.calibre556 {
+    color: gray
+    }
+.calibre557 {
+    height: 665px;
+    width: 981px
+    }
+.calibre558 {
+    height: 498px;
+    width: 721px
+    }
+.calibre559 {
+    height: 497px;
+    width: 720px
+    }
+.calibre560 {
+    height: 488px;
+    width: 672px
+    }
+.calibre561 {
+    height: 420px;
+    width: 1225px
+    }
+.calibre562 {
+    height: 172px;
+    width: 381px
+    }
+.calibre563 {
+    height: 243px;
+    width: 443px
+    }
+.calibre564 {
+    height: 1px;
+    width: 299px
+    }
+.calibre565 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 261pt
+    }
+.calibre566 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 261pt
+    }
+.calibre567 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 261pt
+    }
+.calibre568 {
+    display: table-cell;
+    height: 17.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 63pt
+    }
+.calibre569 {
+    display: table-cell;
+    height: 17.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 117pt
+    }
+.calibre570 {
+    display: table-cell;
+    height: 17.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 261pt
+    }
+.calibre571 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.5in
+    }
+.calibre572 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 40.5pt
+    }
+.calibre573 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.5in
+    }
+.calibre574 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 40.5pt
+    }
+.calibre575 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.5in
+    }
+.calibre576 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 40.5pt
+    }
+.calibre577 {
+    display: table-cell;
+    height: 23.4pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.5in
+    }
+.calibre578 {
+    display: table-cell;
+    height: 23.4pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 40.5pt
+    }
+.calibre579 {
+    display: table-cell;
+    height: 23.4pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 193.5pt
+    }
+.calibre580 {
+    display: table-cell;
+    height: 23.4pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 175.5pt
+    }
+.calibre581 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 130.5pt
+    }
+.calibre582 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 130.5pt
+    }
+.calibre583 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 130.5pt
+    }
+.calibre584 {
+    display: table-cell;
+    height: 17.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 67.5pt
+    }
+.calibre585 {
+    display: table-cell;
+    height: 17.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.5in
+    }
+.calibre586 {
+    display: table-cell;
+    height: 17.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 130.5pt
+    }
+.calibre587 {
+    display: table-row;
+    height: 18.45pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre588 {
+    display: table-cell;
+    height: 18.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 67.5pt
+    }
+.calibre589 {
+    display: table-cell;
+    height: 18.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.5in
+    }
+.calibre590 {
+    display: table-cell;
+    height: 18.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 220.5pt
+    }
+.calibre591 {
+    display: table-cell;
+    height: 18.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 130.5pt
+    }
+.calibre592 {
+    display: table-row;
+    height: 22.95pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre593 {
+    display: table-cell;
+    height: 22.95pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 67.5pt
+    }
+.calibre594 {
+    display: table-cell;
+    height: 22.95pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.5in
+    }
+.calibre595 {
+    display: table-cell;
+    height: 22.95pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 220.5pt
+    }
+.calibre596 {
+    display: table-cell;
+    height: 22.95pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 130.5pt
+    }
+.calibre597 {
+    height: 1px;
+    width: 317px
+    }
+.calibre598 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 61.4pt
+    }
+.calibre599 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 33.1pt
+    }
+.calibre600 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 3in
+    }
+.calibre601 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 139.5pt
+    }
+.calibre602 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 61.4pt
+    }
+.calibre603 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 33.1pt
+    }
+.calibre604 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 3in
+    }
+.calibre605 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 139.5pt
+    }
+.calibre606 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 61.4pt
+    }
+.calibre607 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 33.1pt
+    }
+.calibre608 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 3in
+    }
+.calibre609 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 139.5pt
+    }
+.calibre610 {
+    display: table-row;
+    height: 19.2pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre611 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 19.2pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 61.4pt
+    }
+.calibre612 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 19.2pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 33.1pt
+    }
+.calibre613 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 19.2pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 225pt
+    }
+.calibre614 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 19.2pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 130.5pt
+    }
+.calibre615 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 49.5pt
+    }
+.calibre616 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 166.5pt
+    }
+.calibre617 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 171pt
+    }
+.calibre618 {
+    display: table-row;
+    height: 18.3pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre619 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 18.3pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 63pt
+    }
+.calibre620 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 18.3pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 49.5pt
+    }
+.calibre621 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 18.3pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 166.5pt
+    }
+.calibre622 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 18.3pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 171pt
+    }
+.calibre623 {
+    display: table-row;
+    height: 19.35pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre624 {
+    display: table-cell;
+    height: 19.35pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 63pt
+    }
+.calibre625 {
+    display: table-cell;
+    height: 19.35pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 49.5pt
+    }
+.calibre626 {
+    display: table-cell;
+    height: 19.35pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 166.5pt
+    }
+.calibre627 {
+    display: table-cell;
+    height: 19.35pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 171pt
+    }
+.calibre628 {
+    display: table-row;
+    height: 29.55pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre629 {
+    display: table-cell;
+    height: 29.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 63pt
+    }
+.calibre630 {
+    display: table-cell;
+    height: 29.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 49.5pt
+    }
+.calibre631 {
+    display: table-cell;
+    height: 29.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 166.5pt
+    }
+.calibre632 {
+    display: table-cell;
+    height: 29.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 171pt
+    }
+.calibre633 {
+    height: 308px;
+    width: 550px
+    }
+.calibre634 {
+    height: 535px;
+    width: 1188px
+    }
+.calibre635 {
+    height: 811px;
+    width: 1889px
+    }
+.calibre636 {
+    height: 514px;
+    width: 1493px
+    }
+.calibre637 {
+    height: 444px;
+    width: 806px
+    }
+.calibre638 {
+    height: 636px;
+    width: 917px
+    }
+.calibre639 {
+    height: 370px;
+    width: 686px
+    }
+.calibre640 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 202.5pt
+    }
+.calibre641 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 202.5pt
+    }
+.calibre642 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 202.5pt
+    }
+.calibre643 {
+    display: table-row;
+    height: 36.45pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre644 {
+    display: table-cell;
+    height: 36.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 63pt
+    }
+.calibre645 {
+    display: table-cell;
+    height: 36.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 202.5pt
+    }
+.calibre646 {
+    display: table-cell;
+    height: 36.45pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 184.5pt
+    }
+.calibre647 {
+    height: 733px;
+    width: 1305px
+    }
+.calibre648 {
+    height: 768px;
+    width: 1148px
+    }
+.calibre649 {
+    height: 426px;
+    width: 399px
+    }
+.calibre650 {
+    height: 481px;
+    width: 400px
+    }
+.calibre651 {
+    height: 672px;
+    width: 1100px
+    }
+.calibre652 {
+    height: 494px;
+    width: 982px
+    }
+.calibre653 {
+    height: 425px;
+    width: 398px
+    }
+.calibre654 {
+    height: 547px;
+    width: 1077px
+    }
+.calibre655 {
+    height: 416px;
+    width: 914px
+    }
+.calibre656 {
+    height: 399px;
+    width: 1202px
+    }
+.calibre657 {
+    height: 523px;
+    width: 537px
+    }
+.calibre658 {
+    height: 691px;
+    width: 1400px
+    }
+.calibre659 {
+    display: table-row;
+    height: 17.9pt;
+    line-height: 1.2;
+    vertical-align: inherit
+    }
+.calibre660 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 17.9pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 85.5pt
+    }
+.calibre661 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 17.9pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 121.5pt
+    }
+.calibre662 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 17.9pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 3.25in
+    }
+.calibre663 {
+    display: table-row;
+    height: 11.1pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre664 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 11.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 85.5pt
+    }
+.calibre665 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 11.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 121.5pt
+    }
+.calibre666 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 11.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 3.25in
+    }
+.calibre667 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 3.25in
+    }
+.calibre668 {
+    display: table-row;
+    height: 12.15pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre669 {
+    display: table-cell;
+    height: 12.15pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 85.5pt
+    }
+.calibre670 {
+    display: table-cell;
+    height: 12.15pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 121.5pt
+    }
+.calibre671 {
+    display: table-cell;
+    height: 12.15pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 3.25in
+    }
+.calibre672 {
+    display: table-row;
+    height: 0.15in;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre673 {
+    display: table-cell;
+    height: 0.15in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 85.5pt
+    }
+.calibre674 {
+    display: table-cell;
+    height: 0.15in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 121.5pt
+    }
+.calibre675 {
+    display: table-cell;
+    height: 0.15in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 3.25in
+    }
+.calibre676 {
+    display: table-cell;
+    height: 17.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 85.5pt
+    }
+.calibre677 {
+    display: table-cell;
+    height: 17.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 121.5pt
+    }
+.calibre678 {
+    display: table-cell;
+    height: 17.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 3.25in
+    }
+.calibre679 {
+    height: 275px;
+    width: 956px
+    }
+.calibre680 {
+    height: 416px;
+    width: 818px
+    }
+.calibre681 {
+    height: 274px;
+    width: 897px
+    }
+.calibre682 {
+    height: 511px;
+    width: 951px
+    }
+.calibre683 {
+    height: 530px;
+    width: 872px
+    }
+.calibre684 {
+    height: 460px;
+    width: 666px
+    }
+.calibre685 {
+    height: 432px;
+    width: 975px
+    }
+.calibre686 {
+    height: 226px;
+    width: 671px
+    }
+.calibre687 {
+    height: 497px;
+    width: 855px
+    }
+.calibre688 {
+    height: 629px;
+    width: 596px
+    }
+.calibre689 {
+    height: 370px;
+    width: 654px
+    }
+.calibre690 {
+    height: 448px;
+    width: 755px
+    }
+.calibre691 {
+    height: 621px;
+    width: 1170px
+    }
+.calibre692 {
+    height: 567px;
+    width: 660px
+    }
+.calibre693 {
+    display: table-row;
+    height: 42.75pt;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    vertical-align: middle
+    }
+.calibre694 {
+    display: table-cell;
+    height: 42.75pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 29.85pt
+    }
+.calibre695 {
+    display: table-cell;
+    height: 42.75pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0.05in;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 421.05pt
+    }
+.calibre696 {
+    height: 268px;
+    width: 526px
+    }
+.calibre697 {
+    height: 185px;
+    width: 526px
+    }
+.calibre698 {
+    height: 732px;
+    width: 1400px
+    }
+.calibre699 {
+    height: 714px;
+    width: 1253px
+    }
+.calibre700 {
+    height: 612px;
+    width: 989px
+    }
+.calibre701 {
+    height: 396px;
+    width: 862px
+    }
+.calibre702 {
+    height: 521px;
+    width: 815px
+    }
+.calibre703 {
+    height: 110px;
+    width: 426px
+    }
+.calibre704 {
+    height: 272px;
+    width: 801px
+    }
+.calibre705 {
+    height: 507px;
+    width: 573px
+    }
+.calibre706 {
+    height: 264px;
+    width: 609px
+    }
+.calibre707 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 31.5pt
+    }
+.calibre708 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 58.5pt
+    }
+.calibre709 {
+    display: table-row;
+    height: 16.55pt;
+    line-height: 1.2;
+    vertical-align: middle
+    }
+.calibre710 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 16.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 31.5pt
+    }
+.calibre711 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 16.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 184.5pt
+    }
+.calibre712 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 16.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 58.5pt
+    }
+.calibre713 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 16.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 171pt
+    }
+.calibre714 {
+    display: table-cell;
+    height: 16.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 31.5pt
+    }
+.calibre715 {
+    display: table-cell;
+    height: 16.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 184.5pt
+    }
+.calibre716 {
+    display: table-cell;
+    height: 16.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 58.5pt
+    }
+.calibre717 {
+    display: table-cell;
+    height: 16.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 171pt
+    }
+.calibre718 {
+    height: 453px;
+    width: 876px
+    }
+.calibre719 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 346.5pt
+    }
+.calibre720 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 16.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 99pt
+    }
+.calibre721 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table-cell;
+    height: 16.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 346.5pt
+    }
+.calibre722 {
+    display: table-cell;
+    height: 16.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 99pt
+    }
+.calibre723 {
+    display: table-cell;
+    height: 16.55pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 346.5pt
+    }
+.calibre724 {
+    height: 496px;
+    width: 1262px
+    }
+.calibre725 {
+    height: 320px;
+    width: 962px
+    }
+.calibre726 {
+    height: 190px;
+    width: 546px
+    }
+.calibre727 {
+    height: 834px;
+    width: 1026px
+    }
+.calibre728 {
+    height: 175px;
+    width: 864px
+    }
+.calibre729 {
+    height: 361px;
+    width: 569px
+    }
+.calibre730 {
+    height: 625px;
+    width: 1121px
+    }
+.calibre731 {
+    height: 604px;
+    width: 848px
+    }
+.calibre732 {
+    height: 57px;
+    width: 297px
+    }
+.calibre733 {
+    height: 458px;
+    width: 724px
+    }
+.calibre734 {
+    height: 226px;
+    width: 296px
+    }
+.calibre735 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.7in
+    }
+.calibre736 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.55in
+    }
+.calibre737 {
+    border-bottom-color: currentColor;
+    border-bottom-style: solid;
+    border-bottom-width: 1.5pt;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    display: table-cell;
+    height: 16.1pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.75pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 4in
+    }
+.calibre738 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.7in
+    }
+.calibre739 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.55in
+    }
+.calibre740 {
+    display: table-cell;
+    height: 0.25in;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.75pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 4in
+    }
+.calibre741 {
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 1.7in
+    }
+.calibre742 {
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.4pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 0.55in
+    }
+.calibre743 {
+    display: table-cell;
+    height: 17.85pt;
+    line-height: 1.2;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 5.75pt;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top;
+    width: 4in
+    }
+.calibre744 {
+    font-size: 0.45em
+    }
+.calibre745 {
+    font-size: 0.775em;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.calibre746 {
+    height: 338px;
+    width: 257px
+    }
+.captionfigure {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 6pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 6pt
+    }
+.captionfigure1 {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 6pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 6pt;
+    page-break-after: avoid
+    }
+.captiontable {
+    display: block;
+    font-size: 0.5em;
+    font-weight: bold;
+    margin-bottom: 6pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 12pt;
+    page-break-after: avoid
+    }
+.chtitle {
+    display: block;
+    font-size: 1.1em;
+    line-height: 1.2;
+    margin-bottom: 30pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.chtitleunderline {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.2;
+    margin-bottom: 16pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 22pt;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-autospace: none
+    }
+.codefirstlinecxspfirst {
+    display: block;
+    font-size: 0.5em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 6pt
+    }
+.codefirstlinecxspfirst1 {
+    display: block;
+    font-size: 0.5em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0.5in;
+    margin-right: 0;
+    margin-top: 6pt;
+    text-indent: -0.25in
+    }
+.codefirstlinecxspmiddle {
+    display: block;
+    font-size: 0.5em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.codefirstlinecxspmiddle1 {
+    display: block;
+    font-size: 0.5em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0.5in;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: -0.25in
+    }
+.contents {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.2;
+    margin-bottom: 12pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.copyright {
+    display: block;
+    font-size: 0.5em;
+    margin-bottom: 8pt;
+    margin-left: 40.5pt;
+    margin-right: 0;
+    margin-top: 0;
+    page-break-after: avoid
+    }
+.copyrightnospacecxspfirst {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 22.3pt;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0.25in
+    }
+.guide {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    color: #5F5F5F;
+    display: block;
+    font-size: 0.775em;
+    line-height: 1.2;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: right
+    }
+.head {
+    display: block;
+    font-size: 0.775em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 8pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25in;
+    page-break-after: avoid
+    }
+.headtitle {
+    display: block;
+    font-size: 0.775em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    page-break-after: avoid;
+    text-align: center
+    }
+.headtitle1 {
+    display: block;
+    font-size: 0.775em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 6pt;
+    page-break-after: avoid;
+    text-align: center
+    }
+.msohyperlink {
+    text-decoration: none
+    }
+.msonormal {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.msotablegrid {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-collapse: collapse;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-spacing: 2px;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 454.5pt
+    }
+.msotablegrid1 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-collapse: collapse;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-spacing: 2px;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 6.2in
+    }
+.msotablegrid2 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-collapse: collapse;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-spacing: 2px;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 455.4pt
+    }
+.msotablegrid3 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-collapse: collapse;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-spacing: 2px;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 431.7pt
+    }
+.msotablegrid4 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-collapse: collapse;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-spacing: 2px;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 6.25in
+    }
+.msotablegrid5 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-collapse: collapse;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-spacing: 2px;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5.4pt;
+    margin-top: 0;
+    text-indent: 0;
+    width: 445.5pt
+    }
+.msotablegrid6 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-collapse: collapse;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-spacing: 2px;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5.4pt;
+    margin-top: 0;
+    text-indent: 0;
+    width: 431.1pt
+    }
+.msotablegrid7 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-collapse: collapse;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-spacing: 2px;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 450.9pt
+    }
+.msotablegrid8 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-collapse: collapse;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-spacing: 2px;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 445.5pt
+    }
+.msotablegrid9 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-collapse: collapse;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-spacing: 2px;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 441pt
+    }
+.msotablegrid10 {
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-collapse: collapse;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-spacing: 2px;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: table;
+    float: left;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 6.75pt;
+    margin-right: 6.75pt;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0;
+    width: 6.25in
+    }
+.msotoc {
+    display: block;
+    font-size: 0.6em;
+    font-weight: bold;
+    margin-bottom: 0.0001pt;
+    margin-left: 0.35in;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: -0.35in;
+    text-shadow: auto;
+    text-transform: uppercase
+    }
+.msotoc1 {
+    display: block;
+    font-size: 0.6em;
+    font-style: italic;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.note {
+    display: block;
+    font-size: 0.5em;
+    margin-bottom: 8pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 6pt;
+    page-break-after: avoid;
+    text-indent: 0
+    }
+.part {
+    display: block;
+    font-size: 0.775em;
+    letter-spacing: 3.7pt;
+    line-height: 1.2;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 8.25pt;
+    margin-top: 0;
+    text-align: right
+    }
+.parttitle {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.2;
+    margin-bottom: 0.25in;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1in;
+    text-autospace: none
+    }
+.stylehead114ptnotbold {
+    display: block;
+    font-size: 0.6em;
+    margin-bottom: 0.0001pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    page-break-after: avoid
+    }
+.tablebody {
+    display: block;
+    font-size: 0.45em;
+    margin-bottom: 3pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 3pt
+    }
+.tablehead {
+    display: block;
+    font-size: 0.45em;
+    font-weight: bold;
+    margin-bottom: 6pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 8pt;
+    page-break-after: avoid
+    }
+.wordsection {
+    display: block;
+    line-height: 1.2;
+    page: WordSection1
+    }
+.wordsection1 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection2
+    }
+.wordsection2 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection3
+    }
+.wordsection3 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection4
+    }
+.wordsection4 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection5
+    }
+.wordsection5 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection6
+    }
+.wordsection6 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection7
+    }
+.wordsection7 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection8
+    }
+.wordsection8 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection9
+    }
+.wordsection9 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection10
+    }
+.wordsection10 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection11
+    }
+.wordsection11 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection12
+    }
+.wordsection12 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection13
+    }
+.wordsection13 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection14
+    }
+.wordsection14 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection15
+    }
+.wordsection15 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection16
+    }
+.wordsection16 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection17
+    }
+.wordsection17 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection18
+    }
+.wordsection18 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection19
+    }
+.wordsection19 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection20
+    }
+.wordsection20 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection21
+    }
+.wordsection21 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection22
+    }
+.wordsection22 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection23
+    }
+.wordsection23 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection24
+    }
+.wordsection24 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection25
+    }
+.wordsection25 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection26
+    }
+.wordsection26 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection27
+    }
+.wordsection27 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection28
+    }
+.wordsection28 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection29
+    }
+.wordsection29 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection30
+    }
+.wordsection30 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection31
+    }
+.wordsection31 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection32
+    }
+.wordsection32 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection33
+    }
+.wordsection33 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection34
+    }
+.wordsection34 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection35
+    }
+.wordsection35 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection36
+    }
+.wordsection36 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection37
+    }
+.wordsection37 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection38
+    }
+.wordsection38 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection39
+    }
+.wordsection39 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection40
+    }
+.wordsection40 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection41
+    }
+.wordsection41 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection42
+    }
+.wordsection42 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection43
+    }
+.wordsection43 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection44
+    }
+.wordsection44 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection45
+    }
+.wordsection45 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection46
+    }
+.wordsection46 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection47
+    }
+.wordsection47 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection48
+    }
+.wordsection48 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection49
+    }
+.wordsection49 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection50
+    }
+.wordsection50 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection51
+    }
+.wordsection51 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection52
+    }
+.wordsection52 {
+    display: block;
+    line-height: 1.2;
+    page: WordSection53
+    }
+.pcalibre:link {
+    text-decoration: none
+    }
+.pcalibre1:visited {
+    color: #606420;
+    text-decoration: underline
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
